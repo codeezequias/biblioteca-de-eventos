@@ -1,5 +1,5 @@
-# biblioteca-de-jogos
-biblioteca de jogos
-Qual é o tema do seu sistema? sistema de gerenciamento de jogos.
-Quais são as funcionalidades esperadas? carregar corretamente a biblioteca de jogos.
-Quais serão os dados armazenados? nome do jogo
+# biblioteca-de-eventos
+biblioteca de eventos
+Tema do sistema: Gerenciamento de eventos.
+Quais são as funcionalidades esperadas? Criar, editar, listar eventos e registrar participantes.
+Quais serão os dados armazenados? Eventos (nome, descrição, data, local), participantes (nome, email) e categorias.
